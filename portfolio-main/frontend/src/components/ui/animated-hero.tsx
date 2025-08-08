@@ -6,7 +6,7 @@ import { Button } from "../ui/button";
 function Hero() {
   const [titleNumber, setTitleNumber] = useState(0);
   const titles = useMemo(
-    () => ["Business Analyst", "Upcoming Intern", "Currently Pursuing Masters", "at Manipal Academy of Higher Education"],
+    () => ["Business Analyst", "Upcoming Intern", "Pursuing Masters", "at MAHE"],
     []
   );
 
