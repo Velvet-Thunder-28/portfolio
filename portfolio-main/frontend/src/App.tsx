@@ -138,15 +138,7 @@ function App() {
               <div className="w-full md:w-1/2 bg-black p-6 sm:p-10 md:p-12 lg:p-16 rounded-lg shadow-md border border-gray-700">
                 <h1 className="text-3xl sm:text-4xl font-bold text-white mb-4 sm:mb-5">About Me</h1>
                 <p className="text-base sm:text-lg text-gray-400 leading-relaxed">
-                  I am a 
-                  <span className="font-semibold text-white">
-                    Business Analytics student pursuing my Master of Science at Manipal Academy of Higher Education
-                  </span>.
-                  My academic journey has equipped me with strong analytical and problem-solving skills, and I am passionate about applying machine learning techniques to solve real-world business challenges.
-                  <br />
-                  I am proficient in Python, R, and SQL which I use to extract insights from data and drive informed decision-making.
-                  <br />
-                  My interests lie in leveraging data analysis and machine learning to improve business management and strategy. I am eager to contribute my skills and enthusiasm to innovative projects in the field of business analytics.
+                  I am a passionate Master of Science in Business Analytics student at Manipal Academy of Higher Education, where I have developed a robust skill set in data analysis, machine learning, and strategic problem-solving. Proficient in Python, R, and SQL, I specialize in transforming complex datasets into actionable insights that drive informed decision-making and optimize business outcomes. My academic journey has fueled my enthusiasm for leveraging advanced analytics and machine learning to solve real-world challenges.
                 </p>
               </div>
 
