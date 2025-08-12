@@ -69,7 +69,7 @@ function Hero() {
             </h1>
 
             <p className="text-lg md:text-xl leading-relaxed tracking-tight text-muted-foreground max-w-2xl text-center">
-              Hi I am a Business Analytics student pursuing my masters at Manipal Academy of Higher Education. I am currently looking for internship opportunities to apply my skills and gain practical experience in the field of business analytics.
+              Creating dynamic and actionable business insights sounds exciting! As a fresher in business analytics, I'm eager to build seamless analytics solutions using machine learning and data modeling to enhance decision-making. My goal is to learn and apply modern technologies to make business interactions smoother and more efficient.
             </p>
           </div>
           <div className="relative">
